@@ -14,4 +14,4 @@
 
 ## AI
 
-I didn't use a single bit of AI in making my super epic github page.
+I didn't use a single bit of [AI](https://t4.ftcdn.net/jpg/05/08/38/47/360_F_508384795_AaOb8TQgvq6BqOCbMXtAgEKZJofEXPOn.jpg) in making my super epic github page.
